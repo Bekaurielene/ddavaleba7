@@ -1,0 +1,145 @@
+*{
+    box-sizing: border-box;
+}
+
+
+.text{
+    
+    margin-left: 410px;
+    margin-top: 190px;
+}
+.text2{
+    margin-top: 67px;
+    margin-left: 410px;
+    color:rgba(115, 115, 115, 1);
+}
+.text3{
+    margin-top: 67px;
+    margin-left: 360px;
+    color:rgba(115, 115, 115, 1);
+
+}
+.cont2{
+    width: 328px;
+    height: 133px;
+    margin-top: -30px;
+    padding-top: 20px;
+    padding-left: 40px;
+   
+    margin-left: -40px;
+    border-radius: 11px;
+    background-color: rgba(217, 237, 255, 1)
+   
+   
+
+}
+.cont1{
+    margin-left: 50px;
+    width: 328px;
+    height: 386px;
+    margin-top: 77px;
+    border-radius: 11px;
+    padding-top: 30px;
+    padding-left: 39px;
+    border: 1px solid rgba( 169, 214, 255, 1)
+
+}
+
+
+
+    
+ 
+.text4{
+    padding-left: 90px;
+    margin-top: -45px;
+    
+}
+.text5{
+    padding-top: 60px;
+    margin-left: 5px;
+    color: rgba(115, 115, 115, 1);
+    ;
+}
+.text6{
+    margin-top:-10px;
+    margin-left: 5px;
+    color: rgba(115, 115, 115, 1);
+
+}
+.text7{
+    margin-top:-10px;
+    margin-left: 5px;
+    color: rgba(115, 115, 115, 1);
+
+}
+.text8{
+    margin-top:-10px;
+    margin-left: 5px;
+    color: rgba(115, 115, 115, 1);
+
+}
+.text9{
+    margin-top:-10px;
+    margin-left: 5px;
+    color: rgba(115, 115, 115, 1);
+
+    
+}
+.text10{
+    
+    color:  rgba(255, 166, 43, 1);
+    width:84px ;
+    height: 24px;
+    margin-left: 5px;
+
+}
+.cont3{
+    width: 328px;
+    height: 133px;
+   
+    margin-left: 410px;
+    border-radius: 11px;
+    background-color: rgba(217, 237, 255, 1)
+
+
+}
+.cont4{
+    width: 328px;
+    height: 385px;
+    margin-top: -385px;
+    border-radius: 11px;
+    padding-top: 30px;
+    padding-left: 40px;
+    border: 1px solid rgba( 169, 214, 255, 1)
+
+}
+.cont5{
+    width: 328px;
+    margin-left:770px;
+    margin-top: -130px;
+    height: 133px;
+    margin-top: 152px;
+    margin-bottom: 300px;
+    border-radius: 11px;
+    background-color: rgba(217, 237, 255, 1)
+}
+
+.cont6{
+
+    width: 328px;
+    height: 385px;
+
+    margin-top: -285px;
+    border-radius: 11px;
+    padding-top: 30px;
+    padding-left: 40px;
+    border: 1px solid rgba( 169, 214, 255, 1)
+    
+
+}
+
+
+    
+
+    
+   
